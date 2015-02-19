@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="E:/dps/workspace-ROSETTA-HEAD/system.dir/dps-sdk-4.1.0/lib/dps-sdk-4.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/dps/.m2/commons-io/commons-io/2.0.1/commons-io-2.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/dps/.m2/commons-lang/commons-lang/2.6/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="E:/dps/.m2/org/apache/httpcomponents/httpclient/4.1.2/httpclient-4.1.2.jar"/>
+	<classpathentry kind="lib" path="E:/dps/.m2/org/apache/httpcomponents/httpcore/4.1.2/httpcore-4.1.2.jar"/>
+	<classpathentry kind="lib" path="E:/dps/.m2/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="E:/dps/.m2/org/apache/xmlbeans/xmlbeans/2.3.0/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="E:/dps/.m2/org/codehaus/jackson/jackson-core-asl/1.5.2/jackson-core-asl-1.5.2.jar"/>
+	<classpathentry kind="lib" path="E:/dps/.m2/axis/axis/1.4/axis-1.4.jar"/>
+	<classpathentry kind="lib" path="E:/dps/.m2/org/json/json-simple/1.1/json-simple-1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
